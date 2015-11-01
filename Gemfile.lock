@@ -83,6 +83,7 @@ GEM
       activesupport (>= 4.1.0)
     hashie (3.4.2)
     i18n (0.7.0)
+    imagemagick-identify (0.0.1)
     jbuilder (2.3.1)
       activesupport (>= 3.0.0, < 5)
       multi_json (~> 1.2)
@@ -190,6 +191,7 @@ DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
   devise (~> 3.4.0)
+  imagemagick-identify (~> 0.0.1)
   jbuilder (~> 2.0)
   jquery-rails
   paperclip (~> 4.3.0)
