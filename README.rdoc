@@ -1,7 +1,7 @@
-== README
+== Movieseaum
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Movieseaum is a movie review app where user can add a new movie and users can share his review on that movie. This app was built on 
+the intension of allowing any authorized user to add his movie not necessarily newly released but also old movies. 
 
 Things you may want to cover:
 
